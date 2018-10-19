@@ -1,0 +1,709 @@
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/material.uasset" 0
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/WIPNinjaWAifu_BuiltData.uasset" 1
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/doors.uasset" 2
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/game_over.uasset" 3
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/startscreen_quitgame.uasset" 4
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/startscreen_startgame.uasset" 5
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/menu_click.uasset" 6
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/lose.uasset" 7
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/mouseshow.uasset" 8
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Grasscard_Content/Grasscard1.uasset" 9
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/5895c901cba9841eabab6058.uasset" 10
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/lambert3.uasset" 11
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/neko_lambert1_Metallic.uasset" 12
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/lambert1.uasset" 13
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/temporary_fence_.uasset" 14
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/tree.uasset" 15
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/wall_alphas.uasset" 16
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Geometry/Meshes/CubeMaterial.uasset" 17
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Geometry/Meshes/1M_Cube.uasset" 18
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 19
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Geometry/Meshes/TemplateFloor.uasset" 20
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 21
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPersonJump_End.uasset" 22
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPerson_Jump.uasset" 23
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 24
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPersonJump_Start.uasset" 25
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPersonIdle.uasset" 26
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPersonRun.uasset" 27
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPersonWalk.uasset" 28
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 29
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 30
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 32
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 33
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 34
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 35
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 36
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 37
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 38
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 39
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 40
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 41
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 42
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 43
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 44
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 45
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 46
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 47
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 48
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 49
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/models/Mannequin/Character/Mesh/SK_Mannequin.uasset" 50
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/pause_guideee.uasset" 51
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/pause_quit_game.uasset" 52
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/pause_resume.uasset" 53
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/health_item_pick_up.uasset" 54
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Basic_Wall.uasset" 55
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Pillar_50x500.uasset" 56
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_400x300.uasset" 57
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_400x400.uasset" 58
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_500x500.uasset" 59
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 60
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 61
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Collapse01.uasset" 62
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Collapse02.uasset" 63
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Explosion01.uasset" 64
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Explosion02.uasset" 65
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Fire01.uasset" 66
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Fire_Sparks01.uasset" 67
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Light01.uasset" 68
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Light01_Cue.uasset" 69
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Light02.uasset" 70
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Light02_Cue.uasset" 71
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Smoke01.uasset" 72
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Starter_Birds01.uasset" 73
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Starter_Music01.uasset" 74
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Starter_Wind05.uasset" 75
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Starter_Wind06.uasset" 76
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Steam01.uasset" 77
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Explosion_Cue.uasset" 78
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Burst_M.uasset" 79
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_Burst.uasset" 80
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 81
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 82
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 83
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 84
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 85
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 86
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 87
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 88
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/P_Explosion.uasset" 89
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 90
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 91
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 92
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Bush_D.uasset" 93
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Bush_N.uasset" 94
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Bush.uasset" 95
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Bush.uasset" 96
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Chair_M.uasset" 97
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Chair_N.uasset" 98
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Chair.uasset" 99
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Couch.uasset" 100
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Glass.uasset" 101
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Door_M.uasset" 102
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Door_N.uasset" 103
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Door.uasset" 104
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Door.uasset" 105
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 106
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 107
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 108
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Shelf_M.uasset" 109
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Shelf_N.uasset" 110
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Shelf.uasset" 111
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Shelf.uasset" 112
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Basic_Floor.uasset" 113
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Stairs.uasset" 114
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Cone.uasset" 115
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 116
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 117
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Pipe.uasset" 118
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 119
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 120
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Plane.uasset" 121
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Torus.uasset" 122
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Trim.uasset" 123
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 124
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 125
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 126
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Tube.uasset" 127
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 128
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 129
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 130
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPerson/Meshes/RampMaterial.uasset" 131
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 132
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 133
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 134
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 135
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 136
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/NewBlueprint.uasset" 137
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/NewMaterial.uasset" 138
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/eNEMY_cHARACTER_Skeleton.uasset" 139
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/eNEMY_cHARACTER_Anim_mixamo_com.uasset" 140
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/eNEMY_cHARACTER_Anim_Take_001.uasset" 141
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/lambert2.uasset" 142
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Jump_Attack.uasset" 143
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Jump__3_.uasset" 144
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Standing_Melee_Attack_Horizontal.uasset" 145
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Standing_Melee_Combo_Attack_Ver__1.uasset" 146
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/T-Pose__4__mixamo_com.uasset" 147
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/T-Pose__4__Take_001.uasset" 148
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Unarmed_Walk_Back.uasset" 149
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Walking__6_.uasset" 150
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/lambert2.uasset" 151
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/WaifuTpose_Skeleton.uasset" 152
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/WaifuTpose_Anim_mixamo_com.uasset" 153
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/WaifuTpose_Anim_Take_001.uasset" 154
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/heavy_combo.uasset" 155
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Running_Backward.uasset" 156
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Walking_Backwards_mixamo_com.uasset" 157
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/New_folder/Player_Texure1.uasset" 158
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/New_folder/player.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 160
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 161
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 162
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 163
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 164
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 165
+"../../../Engine/Content/BasicShapes/Cone.uasset" 166
+"../../../Engine/Content/BasicShapes/Cube.uasset" 167
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 168
+"../../../Engine/Content/BasicShapes/Plane.uasset" 169
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 170
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 171
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 172
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 173
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 174
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 175
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 177
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 178
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 179
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 183
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 184
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 185
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 186
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 187
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 188
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 189
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 190
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 191
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 192
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 193
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 194
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 195
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 196
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 197
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 198
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 199
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 200
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 201
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 202
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 203
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 204
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 205
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 206
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 207
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 208
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 209
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 210
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 211
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 214
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 215
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 216
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 217
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 218
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 219
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 220
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 221
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 222
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 223
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 224
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 225
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 226
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 227
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 228
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 229
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 230
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 231
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 232
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 233
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 235
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 236
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 237
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 239
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 240
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 241
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 242
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 243
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 244
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 245
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 246
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 247
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 249
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 250
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 251
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 253
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 254
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 255
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 256
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 257
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 258
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 259
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 260
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 261
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 262
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 263
+"../../../Engine/Content/EngineResources/Black.uasset" 264
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 265
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 266
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 267
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 268
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 269
+"../../../Engine/Content/EngineSounds/Master.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 272
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 273
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 274
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 275
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 293
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 294
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 304
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 305
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 306
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 307
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 308
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 309
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 310
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 311
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 312
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 313
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 314
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 315
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 316
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 317
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 318
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 319
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 320
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 321
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 322
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Idle.uasset" 323
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/runnin_jump.uasset" 324
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/standing_jump.uasset" 325
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Walking__5_.uasset" 326
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/playeranimbp.uasset" 327
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Blow_A_Kiss.uasset" 328
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Loser.uasset" 329
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/quick_Attack.uasset" 330
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/Run.uasset" 331
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Animations/spin_attack.uasset" 332
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Running.uasset" 333
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Standing_Idle.uasset" 334
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/NewBlendSpace1D.uasset" 335
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/EnemyAnimBP.uasset" 336
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Standing_Death_Forward_02.uasset" 337
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Animations/Standing_Melee_Attack_Backhand.uasset" 338
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/health_Item/healthITem.uasset" 339
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/health_Item/M_HealthItem.uasset" 340
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/health_Item/Health_item.uasset" 341
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/HEALTH_Sound.uasset" 342
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/HealthItem.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/SubUV_Function.uasset" 344
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Blood_Splatter/splatter_png_full.uasset" 345
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Water_N.uasset" 346
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Blood_Splatter/M_SplatterDecal.uasset" 347
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/New_folder/Enemy_Texture1.uasset" 348
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/New_folder/enemytexture.uasset" 349
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 350
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/empty_healthbar.uasset" 351
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/HUD.uasset" 352
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Blood_Splatter/M_BloodSplat.uasset" 353
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Blood_Splatter/P_BloodSplat.uasset" 354
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/enemy_death_cry__1_.uasset" 355
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/enemy_weapon_swing.uasset" 356
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/female_giggle.uasset" 357
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Texture2.uasset" 358
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/Enemy_Texture2_Mat.uasset" 359
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/eNEMY_cHARACTER_PhysicsAsset.uasset" 360
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/eNEMY_cHARACTER.uasset" 361
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Enemy_Character/ENEMY_wEAPON.uasset" 362
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Blueprints/enemyAI.uasset" 363
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/flirt_icon.uasset" 364
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/flirt.uasset" 365
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/info_page.uasset" 366
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/main_menu.uasset" 367
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/optionsscreen.uasset" 368
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/button.uasset" 369
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/mainmenubackground.uasset" 370
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/startscreen_guide.uasset" 371
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/MainMenu.uasset" 372
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/pause.uasset" 373
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/gameover.uasset" 374
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/insult_icon.uasset" 375
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/insult.uasset" 376
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/pause_screen.uasset" 377
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/pausedscreen.uasset" 378
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ninjaui/you_win.uasset" 379
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/win.uasset" 380
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/kiss_sound_for_flirt_ability.uasset" 381
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/sword_hit.uasset" 382
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/sword_swing.uasset" 383
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/you_died__1_.uasset" 384
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Player_Texure2.uasset" 385
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/Player_Texure2_Mat.uasset" 386
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/katana.uasset" 387
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/WaifuTpose_PhysicsAsset.uasset" 388
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Main_character/WaifuTpose.uasset" 389
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 390
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 391
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 392
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 393
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 394
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 395
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 396
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 397
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 398
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 399
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/EnemySpawn.uasset" 400
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/Healthspawn.uasset" 401
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/blueprints/mainmenuhud.uasset" 402
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/ThirdPersonBP/Blueprints/mainmenugamemode.uasset" 403
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/WIPNinjaWAify_sharedassets/dirt_LayerInfo1.uasset" 404
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/WIPNinjaWAify_sharedassets/grass_LayerInfo1.uasset" 405
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/WIPNinjaWAify_sharedassets/Rock_LayerInfo.uasset" 406
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/8e8e590581e01d83f712b95a1a9487ff--cute-cartoon-drawings-kawaii-drawings.uasset" 407
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/8e8e590581e01d83f712b95a1a9487ff--cute-cartoon-drawings-kawaii-drawings_Mat.uasset" 408
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/blossomCARD.uasset" 409
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/blossomCARD_Mat.uasset" 410
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Fence_Diffuse.uasset" 411
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Fence_NM.uasset" 412
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Fence_Diffuse_Mat.uasset" 413
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Gate_Diffuse.uasset" 414
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Gate_Normal.uasset" 415
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Gate_Diffuse_Mat.uasset" 416
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/heart.uasset" 417
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/heart_Mat.uasset" 418
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/katana.uasset" 419
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/katana_Mat.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 421
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/5895c901cba9841eabab6058.uasset" 422
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/M_FlowerTop.uasset" 423
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/m_mapleBark.uasset" 424
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/m_mapleBark_Normals.uasset" 425
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/m_mapleBark_Mat.uasset" 426
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/panda.uasset" 427
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/panda_Mat.uasset" 428
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Paper_Lantern.uasset" 429
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Paper_Lantern_Mat.uasset" 430
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/PinkLeaves.uasset" 431
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/PinkLeaves_Mat.uasset" 432
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/skull.uasset" 433
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/skull_Mat.uasset" 434
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/stem.uasset" 435
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/stem_Mat.uasset" 436
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/cobblestone.uasset" 437
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/cobblestoneNormals.uasset" 438
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/dirt_+normal.uasset" 439
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/dirt_512_color_example.uasset" 440
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/grass_normal.uasset" 441
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/Grass_September_seamless_texture__1_of_1_.uasset" 442
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Terrain_Textures/M_GrassTerrain.uasset" 443
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_MacroVariation.uasset" 444
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 445
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 446
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Wood_Oak.uasset" 447
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 448
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Bridge_diffuse.uasset" 449
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Bridge_normal.uasset" 450
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Bridge1.uasset" 451
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Bridge.uasset" 452
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/die_cat_decal.uasset" 453
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Doori_Albedo.uasset" 454
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/Doori_NM.uasset" 455
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Enviro_Textures/M_TorriGate.uasset" 456
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/doori.uasset" 457
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Fence_wall.uasset" 458
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/fence2.uasset" 459
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/flowerbase.uasset" 460
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/flowertop.uasset" 461
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/pagoda_Diffuse.uasset" 462
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/pagoda_NM.uasset" 463
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Pagoda.uasset" 464
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/fullPagoda.uasset" 465
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/GAte1_PhysicsAsset.uasset" 466
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/GAte1_Skeleton.uasset" 467
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/GAte1.uasset" 468
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/GAte2.uasset" 469
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/heart_decal.uasset" 470
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/LampPost.uasset" 471
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/mapleTree_extrudedSurface8.uasset" 472
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/mapleTree_pPlane166.uasset" 473
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/mapleTree_pPlane167.uasset" 474
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/neko_lambert1_BaseColor.uasset" 475
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/neko_lambert1_BaseColor_Mat.uasset" 476
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/neko.uasset" 477
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/panda_decal.uasset" 478
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Paper_Lantern.uasset" 479
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Rock_Texture1.uasset" 480
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Rock_Texture.uasset" 481
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Rock01.uasset" 482
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Rock02.uasset" 483
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Rock03.uasset" 484
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/Rock04.uasset" 485
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/skull_decal.uasset" 486
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/blossomCARD.uasset" 487
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/lambert4.uasset" 488
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Enviro_Models/wallDecal.uasset" 489
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Grasscard_Content/T_Grass.uasset" 490
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Grasscard_Content/M_Grass.uasset" 491
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/Grasscard_Content/Mesh_Grass.uasset" 492
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/P_system_CherryBlossom/cherry-blossom-petal-png-1.uasset" 493
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/P_system_CherryBlossom/M_cherryBlossomPedal.uasset" 494
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/P_system_CherryBlossom/M_cherryBlossomPedal_Inst1.uasset" 495
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/Environment_stuff/P_system_CherryBlossom/P_PetalFall.uasset" 496
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/background_music.uasset" 497
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/background_music_Cue.uasset" 498
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/SFX_Music/enemies_enter_wave_starts__1_.uasset" 499
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 500
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 501
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_RockMesh_M.uasset" 502
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_RockMesh_N.uasset" 503
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Rock.uasset" 504
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Rock.uasset" 505
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/finalwave.umap" 506
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/wave2.umap" 507
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/WIPNinjaWAify_BuiltData.uasset" 508
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/WIPNinjaWAify.umap" 509
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 510
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 511
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 512
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 513
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 514
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 515
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 516
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 517
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 518
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 519
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 520
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 521
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 522
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_AssetPlatform.uasset" 523
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 524
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 525
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 526
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 527
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 528
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 529
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 530
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 531
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Maps/Advanced_Lighting.umap" 532
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 533
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 534
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 535
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 536
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 537
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 538
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Copper.uasset" 539
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Statue_M.uasset" 540
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Statue_N.uasset" 541
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 542
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset" 543
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 544
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Chair.uasset" 545
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Statue.uasset" 546
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Statue.uasset" 547
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_TableRound_M.uasset" 548
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_TableRound_N.uasset" 549
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_TableRound.uasset" 550
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_TableRound.uasset" 551
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Maps/Minimal_Default.umap" 552
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Fire01_Cue.uasset" 553
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 554
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 555
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 556
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 557
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 558
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/P_Fire.uasset" 559
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 560
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Smoke01_Cue.uasset" 561
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/P_Smoke.uasset" 562
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 563
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 564
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Spark_Core.uasset" 565
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_Spark.uasset" 566
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/P_Sparks.uasset" 567
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 568
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Steam01_Cue.uasset" 569
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/P_Steam_Lit.uasset" 570
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 571
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Lamp_M.uasset" 572
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Lamp_N.uasset" 573
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Lamp.uasset" 574
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 575
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 576
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 577
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 578
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 579
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 580
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 581
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 582
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 583
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 584
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 585
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 586
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 587
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 588
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 589
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 590
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 591
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 592
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 593
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 594
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 595
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 596
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 597
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 598
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 599
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 600
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 601
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 602
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 603
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 604
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 605
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 606
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 607
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 608
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 609
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 610
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Gradinet_01.uasset" 611
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 612
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 613
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 614
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 615
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 616
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 617
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 618
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 619
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 620
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 621
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 622
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 623
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 624
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 625
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 626
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 627
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 628
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 629
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 630
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 631
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 632
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 633
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Ground_Grass.uasset" 634
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 635
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 636
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 637
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 638
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 639
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Ground_Moss.uasset" 640
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 641
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 642
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Gold.uasset" 643
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 644
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Rust.uasset" 645
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 646
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 647
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Metal_Steel.uasset" 648
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 649
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 650
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 651
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 652
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 653
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 654
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 655
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 656
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Rock_Slate.uasset" 657
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 658
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 659
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 660
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 661
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 662
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 663
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 664
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 665
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 666
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 667
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 668
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Tech_Panel.uasset" 669
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Water_Lake.uasset" 670
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Water_M.uasset" 671
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Water_Ocean.uasset" 672
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 673
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 674
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 675
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 676
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 677
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 678
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 679
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 680
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Wood_Pine.uasset" 681
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 682
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 683
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 684
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_400x200.uasset" 685
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 686
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 687
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Collapse_Cue.uasset" 688
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 689
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 690
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 691
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 692
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/MaterialSphere.uasset" 693
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Frame_M.uasset" 694
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Textures/T_Frame_N.uasset" 695
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/Materials/M_Frame.uasset" 696
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_CornerFrame.uasset" 697
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_DoorFrame.uasset" 698
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_GlassWindow.uasset" 699
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_PillarFrame.uasset" 700
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_PillarFrame300.uasset" 701
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Props/SM_WindowFrame.uasset" 702
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Cube.uasset" 703
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 704
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Shapes/Shape_Sphere.uasset" 705
+"../../../../../../Users/Vespawoman/Documents/GitHub/NinjaWaifu 4.20/Content/StarterContent/Maps/StarterMap.umap" 706
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 707
+"../../../Engine/Content/Maps/Entry.umap" 708
